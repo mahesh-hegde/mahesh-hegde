@@ -8,4 +8,4 @@ My interests also include systems level programming, computer security, compiler
 
 When I was studying pre-university, I got introduced to programming, on a mobile phone using termux, which made me reasonably proficient with unix shell scripting. Later I took Computer Science in undergraduate.
 
-But you might find [reddit-rip](github.com/mahesh-hegde/reddit-rip) interesting.
+You might find my project [reddit-rip](github.com/mahesh-hegde/reddit-rip) interesting.
