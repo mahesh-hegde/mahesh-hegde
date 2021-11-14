@@ -5,5 +5,3 @@ I am studying B.E in Computer Science & Engineering, at RVCE, Bangalore. (Curren
 I know some programming in C, Java, Go, and Python.
 
 My interests also include systems level programming, computer security, compiler optimizations, operating systems and programming langauge design.
-
-You might find my project [reddit-rip](https://github.com/mahesh-hegde/reddit-rip) interesting.
