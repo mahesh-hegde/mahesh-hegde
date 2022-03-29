@@ -1,6 +1,6 @@
 ## About Me
 
-I am studying B.E in Computer Science & Engineering, at RVCE, Bangalore. (Currently in 5th semster out of 8)
+I am a 3rd year CSE undergraduate student at RVCE, Bangalore.
 
 I know some programming in C, Java, Go, Python and Dart, as well as basics of Web development and UNIX systems.
 
