@@ -10,4 +10,4 @@
 
 🌲 I am from North Kanara, Indian state of Karnataka
 
-🕊️ [Twitter](twitter.com/never_inline), [LinkedIn](https://www.linkedin.com/in/mahesh-bhaskar-hegde/)
+🕊️ [Twitter](https://twitter.com/never_inline), [LinkedIn](https://www.linkedin.com/in/mahesh-bhaskar-hegde/)
