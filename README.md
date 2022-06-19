@@ -6,7 +6,7 @@
 
 💻 My interests in CS are systems programming, databases, compilers, programming languages..
 
-⏳ GSoC '22 Dart (upcoming)
+⏳ GSoC '22 Dart
 
 🌲 I am from North Kanara, Indian state of Karnataka
 
