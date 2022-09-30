@@ -1,6 +1,6 @@
 ## About
 
-📚 CSE undergraduate student at RVCE, Bangalore.
+📚 CSE undergraduate student
 
 ✍️ I know C, Java, Go, some Dart, a little C++ here and there.
 
