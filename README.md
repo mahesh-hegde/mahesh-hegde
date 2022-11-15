@@ -6,7 +6,7 @@
 
 ✍️ I have written some code in General purpose languages (Java, Go, C++), and good with SQL and Unix shell.
 
-⌛ I participated in GSoC 2022 with @dart-lang. I authored initial version of `jnigen`.
+⌛ I participated in GSoC 2022 with [@dart-lang](https://github.com/dart-lang). I authored initial versions of [jnigen](https://github.com/dart-lang/jnigen).
 
 🌲 I am from North Kanara, Indian state of Karnataka.
 
