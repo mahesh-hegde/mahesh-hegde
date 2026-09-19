@@ -1,2 +1,7 @@
+```
+vayáṃ jayema tváyā yujā́ vŕ̥tam
+asmā́kam áṃśam úd avā bháre-bhare
 
-"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."  - George Bernard Shaw
+asmábhyam indra várivaḥ sugáṃ kr̥dhi
+prá śátrūṇām maghavan vŕ̥ṣṇyā ruja
+```
