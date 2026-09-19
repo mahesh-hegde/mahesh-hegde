@@ -1,7 +1,9 @@
 ```
-vayáṃ jayema tváyā yujā́ vŕ̥tam
-asmā́kam áṃśam úd avā bháre-bhare
+tváyā vayám maghavann indra śátrūn
 
-asmábhyam indra várivaḥ sugáṃ kr̥dhi
-prá śátrūṇām maghavan vŕ̥ṣṇyā ruja
+abhí ṣyāma maható mányamānān
+
+tváṃ trātā́ tvám u no vr̥dhé bhūr
+
+vidyā́meṣáṃ vr̥jánaṃ jīrádānum
 ```
